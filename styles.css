@@ -1,0 +1,19 @@
+
+body{
+  background-image: url("spy.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+form{
+  margin-top: 100px;
+}
+h1{
+  color: white;
+  margin-top: 100px;
+
+}
+
+input{
+  height: 30px;
+  width: 50px;
+}
